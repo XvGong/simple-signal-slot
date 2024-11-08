@@ -2,6 +2,8 @@
 
 this is a simple signal-slot library, it's header-only.
 
+support use `Connection` to disconnect.
+
 ## How to use
 
 use template class `Signal<Args...>` to create a signal, the template arguments is slot's arguments.
